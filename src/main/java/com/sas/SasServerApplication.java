@@ -2,7 +2,9 @@ package com.sas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+/**
+ * @author rohit
+ **/
 @SpringBootApplication
 public class SasServerApplication {
 
