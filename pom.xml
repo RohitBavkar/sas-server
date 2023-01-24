@@ -10,9 +10,10 @@
 	</parent>
 	<groupId>com.sas</groupId>
 	<artifactId>sas-server</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>sas-server</name>
 	<description>Demo project for Spring Boot</description>
+
 	<properties>
 		<java.version>19</java.version>
 		<maven.compiler.source>19</maven.compiler.source>
